@@ -1,5 +1,4 @@
 [dependencies]
-bacon = "2.15.0"
 cargo-component = "0.10.1"
 cargo-edit = "0.12.2"
 cargo-expand = "1.0.10"
